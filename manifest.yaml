@@ -1,5 +1,5 @@
 claims-repo:
-  dev: 0.0.0
+  dev: 0.0.1
   qa: 0.0.0
   e2e: 0.0.0
   uat: 0.0.0
