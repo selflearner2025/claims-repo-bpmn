@@ -1,6 +1,6 @@
 claims-repo:
   dev: 0.0.1
   qa: 0.0.1
-  e2e: 0.0.0
+  e2e: 0.0.1
   uat: 0.0.0
   prod: 0.0.0
